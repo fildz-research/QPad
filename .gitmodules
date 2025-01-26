@@ -1,3 +1,6 @@
 [submodule "GCODE"]
 	path = GCODE
 	url = https://github.com/fildz-research/QPad-GCODE.git
+[submodule "STL"]
+	path = STL
+	url = https://github.com/fildz-research/QPad-STL.git
