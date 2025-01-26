@@ -1,5 +1,7 @@
 # QPad: Memory-Retaining and Shock-Absorbing Material
 
+![qpad](https://github.com/user-attachments/assets/e4f88aed-153f-4dd2-89a6-c84c5de44826)
+
 QPad (QuasiPad) is a novel technique to produce flexible, foam-like material from traditional thermoplastics.
 
 ## Features
