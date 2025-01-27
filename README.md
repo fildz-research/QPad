@@ -11,7 +11,7 @@ QPad (QuasiPad) is a novel technique to produce flexible, foam-like material fro
 
 ## Setup
 Hardware: Prusa MK3S+\
-Software: PrusaSlicer 2.8.1
+Software: PrusaSlicer 2.9.0
 
 ## License
 This work is licensed under:
