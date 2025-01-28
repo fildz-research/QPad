@@ -7,6 +7,7 @@ QPad (QuasiPad) is a novel technique to produce flexible, foam-like material fro
 ## Features
 * Supports traditional filaments like PLA.
 * No G-code modifications required.
+* No computer-aided design (CAD) software needed.
 * Adjust stiffness by tuning infill type/density, perimeter width, and extrusion multiplier.
 
 ## Setup
