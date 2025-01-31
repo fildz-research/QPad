@@ -10,7 +10,7 @@ QPad (QuasiPad) is a novel technique to produce flexible, foam-like material fro
 | Pre-work preparation | :green_circle: | *No preparations required before work*. |
 | CAD software | :green_circle: | *No CAD software required*. |
 | G-code post-processing | :green_circle: | *No G-code modifications required*. |
-| Post-processing | :yellow_circle: | *Slight post-processing is required*. |
+| Post-processing | :green_circle: | *Slight post-processing is required*. |
 | Filament compatibility | :green_circle: | *Supports all traditional filaments*. |
 
 Project difficulty: ***EASY*** :suspect:
