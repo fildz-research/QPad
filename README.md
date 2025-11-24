@@ -19,11 +19,12 @@ Project difficulty: ***EASY*** :suspect:
 * Adjust stiffness by tuning infill type/density, perimeter width, and extrusion multiplier.
 
 ## Applications
-To-do
+* Adaptive tool inserts/cutouts
+* Adaptive cushions
 
 ## Setup
 Hardware: Prusa MK3S+\
-Software: PrusaSlicer 2.9.0
+Software: PrusaSlicer 2.9.4
 
 ## License
 This work is licensed under:
