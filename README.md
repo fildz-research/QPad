@@ -19,8 +19,8 @@ Project difficulty: ***EASY*** :suspect:
 * Adjust stiffness by tuning infill type/density, perimeter width, and extrusion multiplier.
 
 ## Applications
-* Adaptive tool inserts/cutouts
-* Adaptive cushions
+* [Adaptive tool inserts/cutouts](https://github.com/fildz-research/QPad/wiki/02.-Tool-inserts)
+* [Adaptive cushions](https://github.com/fildz-research/QPad/wiki/03.-Cushions)
 
 ## Setup
 Hardware: Prusa MK3S+\
